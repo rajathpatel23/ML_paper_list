@@ -14,7 +14,8 @@ for Deep Neural Networks ([pdf](https://arxiv.org/pdf/1710.09282.pdf))
 - TikTok's recommendation systems ([blog](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you))
 - Open Source Model Compression projects ([pdf](https://awesomeopensource.com/projects/model-compression))
 - Pytorch Deep Learning Review (NYU) ([html_site](https://atcold.github.io/pytorch-Deep-Learning/))
-
+- Towards Explaining the Regularization Effect of Initial Large
+Learning Rate in Training Neural Networks ([pdf](https://arxiv.org/pdf/1907.04595.pdf))
 
 ### Knowledge-aware Language Models (KLM)
 - A Survey of Knowledge-Enhanced Text Generation ([pdf](https://blender.cs.illinois.edu/paper/nlgsurvey2020.pdf))
