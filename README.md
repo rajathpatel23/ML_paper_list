@@ -7,7 +7,8 @@ Compositional Task-Oriented Semantic Parsing ([pdf](https://www.aclweb.org/antho
 with Contextualized Span Representations ([pdf](https://www.aclweb.org/anthology/D19-1585.pdf))
 - Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits ([pdf](https://arxiv.org/pdf/2001.04362.pdf))
 - Controllable Text Simplification with Explicit Paraphrasing ([pdf](https://www.aclweb.org/anthology/2020.lrec-1.577.pdf))
-
+- A Discrete Variational Recurrent Topic Model
+without the Reparametrization Trick ([pdf](https://papers.nips.cc/paper/2020/file/9f1d5659d5880fb427f6e04ae500fc25-Paper.pdf))
 ### Machine Learning Operations (MLOps)
 - A Survey of Model Compression and Acceleration
 for Deep Neural Networks ([pdf](https://arxiv.org/pdf/1710.09282.pdf))
