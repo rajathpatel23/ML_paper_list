@@ -22,3 +22,4 @@ Learning Rate in Training Neural Networks ([pdf](https://arxiv.org/pdf/1907.0459
 - A Survey of Knowledge-Enhanced Text Generation ([pdf](https://blender.cs.illinois.edu/paper/nlgsurvey2020.pdf))
 - How Much Knowledge Can You Pack
 Into the Parameters of a Language Model? ([pdf](https://www.aclweb.org/anthology/2020.emnlp-main.437.pdf))
+- Knowledge-Aware Language Model Pretraining ([pdf](https://arxiv.org/abs/2007.00655))
