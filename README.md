@@ -25,3 +25,4 @@ Into the Parameters of a Language Model? ([pdf](https://www.aclweb.org/anthology
 - Knowledge-Aware Language Model Pretraining ([pdf](https://arxiv.org/abs/2007.00655))
 - Linguistic calibration through metacognition:
 aligning dialogue agent responses with expected correctness ([pdf](https://arxiv.org/pdf/2012.14983.pdf))
+- Studying Strategically: Learning to Mask for Closed-book QA ([pdf](https://arxiv.org/pdf/2012.15856.pdf))
