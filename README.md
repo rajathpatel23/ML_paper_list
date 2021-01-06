@@ -9,6 +9,8 @@ with Contextualized Span Representations ([pdf](https://www.aclweb.org/anthology
 - Controllable Text Simplification with Explicit Paraphrasing ([pdf](https://www.aclweb.org/anthology/2020.lrec-1.577.pdf))
 - A Discrete Variational Recurrent Topic Model
 without the Reparametrization Trick ([pdf](https://papers.nips.cc/paper/2020/file/9f1d5659d5880fb427f6e04ae500fc25-Paper.pdf))
+- Making Pre-trained Language Models Better Few-shot Learners ([pdf](https://arxiv.org/abs/2012.15723v1))
+
 ### Machine Learning Operations (MLOps)
 - A Survey of Model Compression and Acceleration
 for Deep Neural Networks ([pdf](https://arxiv.org/pdf/1710.09282.pdf))
