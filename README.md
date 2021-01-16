@@ -25,7 +25,9 @@ Learning Rate in Training Neural Networks ([pdf](https://arxiv.org/pdf/1907.0459
 - A Survey of Knowledge-Enhanced Text Generation ([pdf](https://blender.cs.illinois.edu/paper/nlgsurvey2020.pdf))
 - How Much Knowledge Can You Pack
 Into the Parameters of a Language Model? ([pdf](https://www.aclweb.org/anthology/2020.emnlp-main.437.pdf))
-- Knowledge-Aware Language Model Pretraining ([pdf](https://arxiv.org/abs/2007.00655))
+- Knowledge-Aware Language Model Pretraining ([pdf](https://arxiv.org/abs/2007.00655)) - Done
 - Linguistic calibration through metacognition:
 aligning dialogue agent responses with expected correctness ([pdf](https://arxiv.org/pdf/2012.14983.pdf))
 - Studying Strategically: Learning to Mask for Closed-book QA ([pdf](https://arxiv.org/pdf/2012.15856.pdf))
+- JAKET: JOINT PRE-TRAINING OF KNOWLEDGE
+GRAPH AND LANGUAGE UNDERSTANDING ([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/2010.00796.pdf))
