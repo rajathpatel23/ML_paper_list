@@ -38,3 +38,5 @@ aligning dialogue agent responses with expected correctness ([pdf](https://arxiv
 - A Survey on Knowledge Graphs:
 Representation, Acquisition and Applications ([pdf](https://arxiv.org/pdf/2002.00388.pdf))
 - Commonsense for Generative Multi-Hop Question Answering Tasks ([pdf](https://www.aclweb.org/anthology/D18-1454.pdf))
+- Towards information-rich, logical text generation with knowledge-enhanced
+neural models ([pdf](https://arxiv.org/pdf/2003.00814.pdf))
