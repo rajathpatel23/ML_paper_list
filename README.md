@@ -15,8 +15,8 @@ Extreme Multi-label Text Classification ([pdf](https://arxiv.org/pdf/2101.03305.
 
 ### Low Resource Problems - (Event Detection)
 - Semi-supervised New Event Type Induction and Event Detection ([pdf](https://www.aclweb.org/anthology/2020.emnlp-main.53.pdf))
+- Low-Resource Name Tagging Learned with Weakly Labeled Data ([pdf](https://www.aclweb.org/anthology/D19-1025.pdf))
 
-### Machine Learning Operations (MLOps)
 ### Machine Learning Operations (MLOps)
 - A Survey of Model Compression and Acceleration
 for Deep Neural Networks ([pdf](https://arxiv.org/pdf/1710.09282.pdf))
