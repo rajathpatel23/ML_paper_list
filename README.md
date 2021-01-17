@@ -35,3 +35,5 @@ Into the Parameters of a Language Model? ([pdf](https://www.aclweb.org/anthology
 aligning dialogue agent responses with expected correctness ([pdf](https://arxiv.org/pdf/2012.14983.pdf))
 - Studying Strategically: Learning to Mask for Closed-book QA ([pdf](https://arxiv.org/pdf/2012.15856.pdf))
 - JAKET: Joint Pre-Training of Knowledge Graph and Language Understanding ([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/2010.00796.pdf))
+- A Survey on Knowledge Graphs:
+Representation, Acquisition and Applications ([pdf](https://arxiv.org/pdf/2002.00388.pdf))
