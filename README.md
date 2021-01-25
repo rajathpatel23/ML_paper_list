@@ -41,3 +41,9 @@ Representation, Acquisition and Applications ([pdf](https://arxiv.org/pdf/2002.0
 - Commonsense for Generative Multi-Hop Question Answering Tasks ([pdf](https://www.aclweb.org/anthology/D18-1454.pdf))
 - Towards information-rich, logical text generation with knowledge-enhanced
 neural models ([pdf](https://arxiv.org/pdf/2003.00814.pdf))
+- Incorporating External Knowledge into Machine Reading for Generative
+Question Answering ([pdf](https://arxiv.org/pdf/1909.02745.pdf))
+- Natural Answer Generation with Heterogeneous Memory ([pdf](https://www.aclweb.org/anthology/N18-1017))
+- Hierarchical Graph Representation Learning with Differentiable Pooling ([pdf](https://arxiv.org/pdf/1806.08804.pdf))
+- Knowledge-aware graph neural networks with label smoothness regularization for recommender systems. ([pdf](https://arxiv.org/pdf/1905.04413.pdf))
+- ConceptNet 5.5: An Open Multilingual Graph of General Knowledge ([pdf](https://arxiv.org/pdf/1612.03975.pdf))
