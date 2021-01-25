@@ -25,6 +25,7 @@ for Deep Neural Networks ([pdf](https://arxiv.org/pdf/1710.09282.pdf))
 - Pytorch Deep Learning Review (NYU) ([html_site](https://atcold.github.io/pytorch-Deep-Learning/))
 - Towards Explaining the Regularization Effect of Initial Large
 Learning Rate in Training Neural Networks ([pdf](https://arxiv.org/pdf/1907.04595.pdf))
+- Robustness Gym: Unifying the NLP Evaluation Landscape ([pdf](https://arxiv.org/pdf/2101.04840.pdf))
 
 ### Knowledge-aware Language Models (KLM)
 - A Survey of Knowledge-Enhanced Text Generation ([pdf](https://blender.cs.illinois.edu/paper/nlgsurvey2020.pdf))
