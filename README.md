@@ -15,6 +15,7 @@ Extreme Multi-label Text Classification ([pdf](https://arxiv.org/pdf/2101.03305.
 - Muppet: Massive Multi-task Representations with Pre-Finetuning ([pdf](https://arxiv.org/pdf/2101.11038.pdf))
 
 
+
 ### Low Resource Problems - (Event Detection)
 - Semi-supervised New Event Type Induction and Event Detection ([pdf](https://www.aclweb.org/anthology/2020.emnlp-main.53.pdf))
 - Low-Resource Name Tagging Learned with Weakly Labeled Data ([pdf](https://www.aclweb.org/anthology/D19-1025.pdf))
@@ -28,6 +29,7 @@ for Deep Neural Networks ([pdf](https://arxiv.org/pdf/1710.09282.pdf))
 - Towards Explaining the Regularization Effect of Initial Large
 Learning Rate in Training Neural Networks ([pdf](https://arxiv.org/pdf/1907.04595.pdf))
 - Robustness Gym: Unifying the NLP Evaluation Landscape ([pdf](https://arxiv.org/pdf/2101.04840.pdf))
+- On Calibration of Modern Neural Networks ([pdf](https://arxiv.org/abs/1706.04599))
 
 ### Knowledge-aware Language Models (KLM)
 - A Survey of Knowledge-Enhanced Text Generation ([pdf](https://blender.cs.illinois.edu/paper/nlgsurvey2020.pdf))
