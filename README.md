@@ -12,6 +12,8 @@ without the Reparametrization Trick ([pdf](https://papers.nips.cc/paper/2020/fil
 - Making Pre-trained Language Models Better Few-shot Learners ([pdf](https://arxiv.org/abs/2012.15723v1))
 - LightXML: Transformer with Dynamic Negative Sampling for High-Performance
 Extreme Multi-label Text Classification ([pdf](https://arxiv.org/pdf/2101.03305.pdf))
+- Muppet: Massive Multi-task Representations with Pre-Finetuning ([pdf](https://arxiv.org/pdf/2101.11038.pdf))
+
 
 ### Low Resource Problems - (Event Detection)
 - Semi-supervised New Event Type Induction and Event Detection ([pdf](https://www.aclweb.org/anthology/2020.emnlp-main.53.pdf))
