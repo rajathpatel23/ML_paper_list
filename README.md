@@ -13,6 +13,7 @@ without the Reparametrization Trick ([pdf](https://papers.nips.cc/paper/2020/fil
 - LightXML: Transformer with Dynamic Negative Sampling for High-Performance
 Extreme Multi-label Text Classification ([pdf](https://arxiv.org/pdf/2101.03305.pdf))
 - Muppet: Massive Multi-task Representations with Pre-Finetuning ([pdf](https://arxiv.org/pdf/2101.11038.pdf))
+- Making Pre-trained Language Models Better Few-shot Learners ([pdf](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf))
 
 
 
@@ -54,3 +55,4 @@ Question Answering ([pdf](https://arxiv.org/pdf/1909.02745.pdf))
 - Commonsense Knowledge Aware Conversation Generation with Graph Attention ([pdf](https://www.ijcai.org/Proceedings/2018/0643.pdf))
 - DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs ([pdf](https://arxiv.org/pdf/1910.00610.pdf))
 - DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning ([pdf](https://arxiv.org/pdf/1707.06690.pdf))
+- Reinforcement Knowledge Graph Reasoning for Explainable Recommendation ([pdf](https://arxiv.org/pdf/1906.05237.pdf))
