@@ -56,3 +56,10 @@ Question Answering ([pdf](https://arxiv.org/pdf/1909.02745.pdf))
 - DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs ([pdf](https://arxiv.org/pdf/1910.00610.pdf))
 - DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning ([pdf](https://arxiv.org/pdf/1707.06690.pdf))
 - Reinforcement Knowledge Graph Reasoning for Explainable Recommendation ([pdf](https://arxiv.org/pdf/1906.05237.pdf))
+
+### Using External knowledge to Improve Language generation
+- Beyond Word for Word: Fact Guided Training for Neural Data-to-Document Generation ([pdf](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306669))
+- Enhancing Neural Data-To-Text Generation Models with External Background Knowledge ([pdf](https://www.aclweb.org/anthology/D19-1299.pdf))
+
+
+
