@@ -60,6 +60,9 @@ Question Answering ([pdf](https://arxiv.org/pdf/1909.02745.pdf))
 ### Using External knowledge to Improve Language generation
 - Beyond Word for Word: Fact Guided Training for Neural Data-to-Document Generation ([pdf](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306669))
 - Enhancing Neural Data-To-Text Generation Models with External Background Knowledge ([pdf](https://www.aclweb.org/anthology/D19-1299.pdf))
-
+- PoMo: Generating Entity-Specific Post-Modifiers in Context ([pdf](https://arxiv.org/pdf/1904.03111.pdf))
+- Point Precisely: Towards Ensuring the Precision of Data in Generated
+Texts Using Delayed Copy Mechanism ([pdf](https://www.aclweb.org/anthology/C18-1089.pdf))
+- 
 
 
