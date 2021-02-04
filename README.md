@@ -63,6 +63,8 @@ Question Answering ([pdf](https://arxiv.org/pdf/1909.02745.pdf))
 - PoMo: Generating Entity-Specific Post-Modifiers in Context ([pdf](https://arxiv.org/pdf/1904.03111.pdf))
 - Point Precisely: Towards Ensuring the Precision of Data in Generated
 Texts Using Delayed Copy Mechanism ([pdf](https://www.aclweb.org/anthology/C18-1089.pdf))
-- 
+- Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension
+with External Commonsense Knowledge ([pdf](https://www.aclweb.org/anthology/P18-1076.pdf))
+- Get To The Point: Summarization with Pointer-Generator Networks ([pdf](https://arxiv.org/pdf/1704.04368.pdf))
 
 
