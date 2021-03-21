@@ -14,7 +14,7 @@ without the Reparametrization Trick ([pdf](https://papers.nips.cc/paper/2020/fil
 Extreme Multi-label Text Classification ([pdf](https://arxiv.org/pdf/2101.03305.pdf))
 - Muppet: Massive Multi-task Representations with Pre-Finetuning ([pdf](https://arxiv.org/pdf/2101.11038.pdf))
 - Making Pre-trained Language Models Better Few-shot Learners ([pdf](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf))
-
+- Low-Resource Name Tagging Learned with Weakly Labeled Data ([pdf](https://www.aclweb.org/anthology/D19-1025.pdf))
 
 
 ### Low Resource Problems - (Event Detection)
@@ -59,8 +59,8 @@ Question Answering ([pdf](https://arxiv.org/pdf/1909.02745.pdf))
 
 ### Using External knowledge to Improve Language generation
 - Beyond Word for Word: Fact Guided Training for Neural Data-to-Document Generation ([pdf](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306669))
-- Enhancing Neural Data-To-Text Generation Models with External Background Knowledge ([pdf](https://www.aclweb.org/anthology/D19-1299.pdf))
-- PoMo: Generating Entity-Specific Post-Modifiers in Context ([pdf](https://arxiv.org/pdf/1904.03111.pdf))
+- Enhancing Neural Data-To-Text Generation Models with External Background Knowledge ([pdf](https://www.aclweb.org/anthology/D19-1299.pdf)) - done
+- PoMo: Generating Entity-Specific Post-Modifiers in Context ([pdf](https://arxiv.org/pdf/1904.03111.pdf)) - done
 - Point Precisely: Towards Ensuring the Precision of Data in Generated
 Texts Using Delayed Copy Mechanism ([pdf](https://www.aclweb.org/anthology/C18-1089.pdf))
 - Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension
