@@ -15,7 +15,7 @@ Extreme Multi-label Text Classification ([pdf](https://arxiv.org/pdf/2101.03305.
 - Muppet: Massive Multi-task Representations with Pre-Finetuning ([pdf](https://arxiv.org/pdf/2101.11038.pdf))
 - Making Pre-trained Language Models Better Few-shot Learners ([pdf](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf))
 - Low-Resource Name Tagging Learned with Weakly Labeled Data ([pdf](https://www.aclweb.org/anthology/D19-1025.pdf))
-
+- SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge ([pdf](https://www.aclweb.org/anthology/2020.emnlp-main.567.pdf))
 
 ### Low Resource Problems - (Event Detection)
 - Semi-supervised New Event Type Induction and Event Detection ([pdf](https://www.aclweb.org/anthology/2020.emnlp-main.53.pdf))
