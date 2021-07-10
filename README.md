@@ -69,4 +69,4 @@ Texts Using Delayed Copy Mechanism ([pdf](https://www.aclweb.org/anthology/C18-1
 with External Commonsense Knowledge ([pdf](https://www.aclweb.org/anthology/P18-1076.pdf))
 - Get To The Point: Summarization with Pointer-Generator Networks ([pdf](https://arxiv.org/pdf/1704.04368.pdf))
 
-
+- Learning Dense Representation of Phrases at Scale ([pdf](https://arxiv.org/pdf/2012.12624.pdf))
