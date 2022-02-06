@@ -33,6 +33,7 @@ Learning Rate in Training Neural Networks ([pdf](https://arxiv.org/pdf/1907.0459
 - On Calibration of Modern Neural Networks ([pdf](https://arxiv.org/abs/1706.04599))
 - Fine-Tuning Pre-trained Language Model with Weak Supervision:
 A Contrastive-Regularized Self-Training Approach ([pdf](https://arxiv.org/pdf/2010.07835.pdf))
+- Production Machine Learning Pipelines: Empirical Analysis and Optimization Opportunities ([pdf](https://arxiv.org/abs/2103.16007))
 
 ### Knowledge-aware Language Models (KLM)
 - A Survey of Knowledge-Enhanced Text Generation ([pdf](https://blender.cs.illinois.edu/paper/nlgsurvey2020.pdf))
